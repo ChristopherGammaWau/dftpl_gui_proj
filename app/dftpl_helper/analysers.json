@@ -1,10 +1,6 @@
 {
     "analysers-list": [
         {
-            "name": "Recent File Access",
-            "category": "User Activity"
-        },
-        {
             "name": "USB Device Connected (Registry DeviceClasses)",
             "category": "User Activity"
         },
@@ -30,14 +26,6 @@
         },
         {
             "name": "Cached Images",
-            "category": "Web"
-        },
-        {
-            "name": "Bing Search",
-            "category": "Web"
-        },
-        {
-            "name": "Google Search",
             "category": "Web"
         },
         {
